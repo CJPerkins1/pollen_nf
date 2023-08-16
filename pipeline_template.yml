@@ -1,0 +1,4 @@
+prefix: nf
+skip:
+- igenomes
+- nf_core_configs
